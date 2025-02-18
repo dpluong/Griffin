@@ -10,7 +10,7 @@
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE",
-                "KEXPORT"
+                "GEXPORT"
             ],
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c17",
@@ -27,7 +27,7 @@
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE",
-                "KEXPORT"
+                "GEXPORT"
             ],
             "windowsSdkVersion": "10.0.18362.0",
             "compilerPath": "D:\\Programs\\LLVM\\bin\\clang.exe",
